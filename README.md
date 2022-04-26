@@ -20,6 +20,11 @@
 데이터 전처리, 성과 비교를 위한 타 커뮤니티 데이터 크롤링
 긍/부정 라벨링
 ```
+![image](https://user-images.githubusercontent.com/70729822/165381047-686c107f-1c49-4e37-b4d4-86bf73e407b6.png)
+![image](https://user-images.githubusercontent.com/70729822/165381129-9bc38f9b-2d61-4728-99b7-b0e82edaccca.png)
+
+
+
 
 ### 정량적 분석
 ```
@@ -28,15 +33,30 @@
 팬심 셀럽 / Non 팬심 유튜브 성과 비교
 개별 셀럽 긍정도 비교
 ```
+![image](https://user-images.githubusercontent.com/70729822/165381188-94283a82-f78a-4168-911a-84f361e03978.png)
+![image](https://user-images.githubusercontent.com/70729822/165381202-78b3a1a7-81d8-4da0-90c4-588ed30c0619.png)
+![image](https://user-images.githubusercontent.com/70729822/165381369-7edeb785-841c-4d00-9749-29e91350ac9f.png)
+
+
+
 
 ### 정성적 분석
 ```
 자주 하는 말들의 특징 분석
 대화 범주별 특징 분석
 ```
+![image](https://user-images.githubusercontent.com/70729822/165381450-7a2bac8d-d1b1-4657-b821-52981560b475.png)
+![image](https://user-images.githubusercontent.com/70729822/165381507-819d50ed-d785-4190-98dc-df27fa48cbf1.png)
+![image](https://user-images.githubusercontent.com/70729822/165381471-570a3829-3e0b-4fe3-93cd-406e861f0eac.png)
+![image](https://user-images.githubusercontent.com/70729822/165381603-d97bbc27-71bd-4ebe-a26d-1981c986cc8f.png)
+
+
 
 ### 결론
 ```
 프로젝트 가설 검증 결과
 한계 및 보완 가능성
 ```
+![image](https://user-images.githubusercontent.com/70729822/165381654-9b586b02-df92-478b-bb77-948a92b755cb.png)
+![image](https://user-images.githubusercontent.com/70729822/165381684-54a56df0-d4af-403e-85be-16e84d716928.png)
+
